@@ -10,7 +10,7 @@ The lectures are organized as follows:
 - Lecture 4: Straight Line Complexity of Linear Programs
 - Lecture 5: Predictor Corrector Interior Point Methods
 
-There is short supplementary note, containing notation & theorem statements
+There is also short supplementary note, containing notation & theorem statements
 that will be used throughout the lectures:
 
 - Lecture 0: Background material on Linear Algebra, Calculus and Probability.
