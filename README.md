@@ -16,4 +16,5 @@ that will be used throughout the lectures:
 - Lecture 0: Background material on Linear Algebra, Calculus and Probability.
 
 Here are links for the available colab files:
+
 [Lecture 1 Colab](https://colab.research.google.com/github/dndadush/DIMAG-Summer-School-2026/blob/main/colab/lecture_1.ipynb): Visualizing Linear Programs
