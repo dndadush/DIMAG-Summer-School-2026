@@ -1,4 +1,4 @@
-Welcome to homepage for the "Geometry and Algorithms of Linear Programming" lectures, which is part of the IBS DIMAG 2026 Summer School on  Summer School on Combinatorics and Algorithms (https://combialgo.dimag.kr/2026/).
+Welcome to homepage for the "Geometry and Algorithms of Linear Programming" lectures, which is part of the 2026 Summer School on Summer School on Combinatorics and Algorithms (https://combialgo.dimag.kr/2026/) at KAIST.
 
 This repository contains the lecture notes and slides in the main folder, and the exercises and colab files in respective folders. Materials will be made available as the course progresses.
 
