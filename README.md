@@ -14,3 +14,7 @@ There is also short supplementary note, containing notation & theorem statements
 that will be used throughout the lectures:
 
 - Lecture 0: Background material on Linear Algebra, Calculus and Probability.
+
+To use the colab files, use the following pattern (replace X with the lecture number):
+
+https://colab.research.google.com/github/dndadush/DIMAG-Summer-School-2026/blob/main/colab/lecture_X.ipynb
