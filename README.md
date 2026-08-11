@@ -18,4 +18,5 @@ that will be used throughout the lectures:
 Here are links for the available colab files (make sure to run the setup code!):
 
 [Lecture 1 Colab](https://colab.research.google.com/github/dndadush/DIMAG-Summer-School-2026/blob/main/colab/lecture_1.ipynb): Visualizing Linear Programs
+
 [Lecture 2 Colab](https://colab.research.google.com/github/dndadush/DIMAG-Summer-School-2026/blob/main/colab/lecture_2.ipynb): Visualizing the Simplex Method
